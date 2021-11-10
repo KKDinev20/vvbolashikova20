@@ -3,7 +3,7 @@
 
 <img align="right" width="350" alt="" src="https://66.media.tumblr.com/tumblr_m9wol8HM3j1rfjowdo1_500.gif" />
 
-## Personal stuff
+## Personal Information
 - 📚 I study at VSCPI
 - 🚀 I’m currently learning HTML5 & CSS3 and C++
 - 📫 How to reach me: vvbolashikova@codingburgas.bg
@@ -20,7 +20,7 @@
 <hr>
 
 
-### Projects and Dev stuff
+### Stats and Badges
 <details>
   <summary><b>⚡ Github Stats</b></summary><br>
 
